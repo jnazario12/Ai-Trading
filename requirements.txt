@@ -1,1 +1,2 @@
-# requirements.txt placeholder for root
+flask
+requests
