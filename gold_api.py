@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "YOUR_REAL_GOLDAPI_KEY"
+API_KEY = "goldapi-1cngqlmmcdzk7xe-io"
 API_URL = "https://www.goldapi.io/api/XAU/USD"
 
 def get_gold_price():
